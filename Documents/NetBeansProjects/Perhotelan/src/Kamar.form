@@ -81,11 +81,11 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Segoe UI" size="12" style="1"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="No Kamar"/>
+        <Property name="text" type="java.lang.String" value="No Kamar "/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="26" y="203" width="-1" height="-1"/>
+          <AbsoluteConstraints x="26" y="203" width="60" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>

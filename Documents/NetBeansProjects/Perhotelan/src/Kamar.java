@@ -67,9 +67,9 @@ public class Kamar extends javax.swing.JFrame {
         jLabel4.setBounds(26, 149, 82, 16);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jLabel5.setText("No Kamar");
+        jLabel5.setText("No Kamar ");
         getContentPane().add(jLabel5);
-        jLabel5.setBounds(26, 203, 55, 16);
+        jLabel5.setBounds(26, 203, 60, 16);
 
         jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         jLabel6.setText("Fasilitas Kamar");
